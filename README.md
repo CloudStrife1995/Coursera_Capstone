@@ -5,3 +5,7 @@ https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/9b90feb9-27a1-4c
 # First Part of the Capstone Project
 
 https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/9cb3b831-5392-437e-a569-7d5a45c4f8c4/view?access_token=fd9a7ad967375160eaa41da6bfab2cd364bc2da0d5d0efa9da262cb71a19b6cd
+
+# Second Part of the Capstone Project
+
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/9cb3b831-5392-437e-a569-7d5a45c4f8c4/view?access_token=fd9a7ad967375160eaa41da6bfab2cd364bc2da0d5d0efa9da262cb71a19b6cd
