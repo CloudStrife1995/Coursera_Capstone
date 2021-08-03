@@ -9,3 +9,6 @@ https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/9cb3b831-5392-43
 # Second Part of the Capstone Project
 
 https://gist.github.com/7da15d515784dfbf18287e2062087c22
+
+# Third Part of the Capstone Project
+https://gist.github.com/7da15d515784dfbf18287e2062087c22
